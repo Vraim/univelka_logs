@@ -1,7 +1,11 @@
 # Univelka
 
-Public release repository for the Univelka retrospective and quiz.
+Julkinen raidihistoria ja tietovisa.
 
-The production website is being prepared in a release branch. This repository contains only audience-facing publication files.
+https://vraim.github.io/univelka_logs/
 
-Pages publishing: Deploy from a branch → main → / (root).
+Julkaisu: `2026-10-21.4`. Aineisto: 23.11.2019–20.9.2026.
+
+Pages: Deploy from a branch → main → / (root).
+Tämä repositorio sisältää vain valmiin yleisösivuston.
+Offline-ZIP, PDF ja tarkisteet: https://github.com/Vraim/univelka_logs/releases/tag/2026-10-21.4
